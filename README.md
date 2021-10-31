@@ -15,3 +15,5 @@
 作业6（粒子系统）
 ![image](https://user-images.githubusercontent.com/90955383/139573930-33a63173-8799-4f61-a654-c86b5820ff83.png)
 ![image](https://user-images.githubusercontent.com/90955383/139573941-edd02e97-4ba3-4b45-add1-74b438ba17eb.png)
+https://user-images.githubusercontent.com/90955383/139574039-1cda4110-b522-41bf-a47f-24e4df1bd40d.mp4
+
